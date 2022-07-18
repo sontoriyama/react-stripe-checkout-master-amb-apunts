@@ -1,3 +1,7 @@
+Atenció
+
+Recordar que en aquest cas d'exemple tenim el server a la carpeta server i el front a src sense el build fet. Si fem proves iniciem server react al port 3000 i el back al 3001
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
